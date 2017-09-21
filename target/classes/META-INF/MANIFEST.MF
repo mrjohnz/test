@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: rtcal
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: com.pcitc.impl
+Build-Jdk: 1.8.0_101
+Implementation-URL: http://projects.spring.io/spring-boot/rtcal/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
